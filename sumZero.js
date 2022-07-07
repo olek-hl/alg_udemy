@@ -18,3 +18,4 @@ const sumZero = (arr) => {
 console.log(sumZero([-3, -2, -1, 3, 4, 7]));
 console.log(sumZero([-3, -2, -1, 0, 4, 7]));
 console.log(sumZero([-300, -2, -1, 0, 4, , 300, 700]));
+console.log(sumZero([-300, -2, -1, 0, 4, , 2, 700]));
